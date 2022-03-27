@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8526551f-c7f3-b580-d944-9f41544ed892
 resourcetype: Document
 title: qmhandout2.pdf
 uid: d6199e55-c496-63c8-4ce0-2a7275754d4f
