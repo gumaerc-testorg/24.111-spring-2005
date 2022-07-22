@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Fifth lecture
-file: /media/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/b0166a6efbd67929d5b893537447fa8c_lecture_5.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/b0166a6efbd67929d5b893537447fa8c_lecture_5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: lecture_5.pdf
 uid: b0166a6e-fbd6-7929-d5b8-93537447fa8c
 ---
+Fifth lecture
