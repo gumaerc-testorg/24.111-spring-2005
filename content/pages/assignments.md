@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section consists of the exercises and handouts used in
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ ASSIGNMENTS
 Overview of Some Odd Phenomena
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/a1_due_2_14_05))
+Assignment 1 ({{% resource_link 355178a6-5875-6c9f-e6b9-78ab4ff570cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,9 +47,9 @@ Assignment 1 ([PDF]({{< baseurl >}}/resources/a1_due_2_14_05))
 The Mathematical Formalism and Its Orthodox Interpretation
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/a2_due_2_22_05))  
+Assignment 2 ({{% resource_link 775ea422-d0ad-6e39-ffb4-a6789cfd3303 "PDF" %}})  
   
-Assignment 3 ([PDF]({{< baseurl >}}/resources/a3_due_2_28_05))
+Assignment 3 ({{% resource_link 2d3c3822-aaa9-6676-a220-5f969d457da1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,16 +63,16 @@ The Measurement Problem and Attempted Solutions
 {{< tdopen >}}
 
 
-Assignment 4 ([PDF]({{< baseurl >}}/resources/a4_due_3_7_05))  
+Assignment 4 ({{% resource_link 94f8d32d-2647-3b88-cf01-ad8c9282dca4 "PDF" %}})  
   
-Assignment 5 ([PDF]({{< baseurl >}}/resources/a5_due_3_14_05))  
+Assignment 5 ({{% resource_link e50829a3-96be-ac7a-38ce-c96156d8ecb8 "PDF" %}})  
   
-Assignment 6 ([PDF]({{< baseurl >}}/resources/a6_due_3_28_05))  
+Assignment 6 ({{% resource_link ecbdc7a1-01bc-d275-2e29-c2d4b41f0283 "PDF" %}})  
  
 
-Assignment 7 ([PDF]({{< baseurl >}}/resources/a7_due_4_4_05))  
+Assignment 7 ({{% resource_link 5424dff8-745d-6694-3a52-61aee64254b0 "PDF" %}})  
   
-Assignment 8 ([PDF]({{< baseurl >}}/resources/a8_due_4_11_05))
+Assignment 8 ({{% resource_link fe50644e-9097-3ef5-1ae2-6dc61a69dbb6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -84,7 +86,7 @@ Assignment 8 ([PDF]({{< baseurl >}}/resources/a8_due_4_11_05))
 Hidden Variables and Proofs of Their Impossibility
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 9 ([PDF]({{< baseurl >}}/resources/a9_due_4_20_05))
+Assignment 9 ({{% resource_link dacacdbb-89bc-ce13-b62c-459bbd34d378 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ Assignment 9 ([PDF]({{< baseurl >}}/resources/a9_due_4_20_05))
 Quantum Extravagances
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 10 ([PDF]({{< baseurl >}}/resources/a10_due_5_4_05))
+Assignment 10 ({{% resource_link e17ce969-0a8d-e524-4229-c2b156aefe03 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,9 +110,9 @@ Assignment 10 ([PDF]({{< baseurl >}}/resources/a10_due_5_4_05))
 Composition and Identical Particles
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 11 ([PDF]({{< baseurl >}}/resources/a11_due_5_11_05))  
+Assignment 11 ({{% resource_link 09cea409-51b9-4802-a444-ae3f42300bab "PDF" %}})  
   
-Assignment 12 ([PDF]({{< baseurl >}}/resources/a12_due_5_11_05))
+Assignment 12 ({{% resource_link cf4fb993-9708-0648-a312-a55612539ddd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,14 +122,14 @@ Assignment 12 ([PDF]({{< baseurl >}}/resources/a12_due_5_11_05))
 Handouts
 --------
 
-Handout 1: The two-path experiment ([PDF]({{< baseurl >}}/resources/handout1_2_2_05))
+Handout 1: The two-path experiment ({{% resource_link 1f11f8db-309e-68a3-af7a-f055a18c16fd "PDF" %}})
 
-Handout 2: Bell's Inequalities ([PDF]({{< baseurl >}}/resources/handout2_2_9_05))
+Handout 2: Bell's Inequalities ({{% resource_link 2acce628-e0c2-0a3d-edd5-ba5b600362c7 "PDF" %}})
 
-Handout 3: Derivation of the Turbo Bell's Inequality (less formally known as the Clauser-Horne-Holt-Shimony inequality) ([PDF]({{< baseurl >}}/resources/handout3_2_14_05))
+Handout 3: Derivation of the Turbo Bell's Inequality (less formally known as the Clauser-Horne-Holt-Shimony inequality) ({{% resource_link fc8b02f9-8404-0ec3-a8a9-93b5a8a21605 "PDF" %}})
 
-Handout 4: Vector spaces and the statistical algorithm ([PDF]({{< baseurl >}}/resources/handout4_2_16_05))
+Handout 4: Vector spaces and the statistical algorithm ({{% resource_link fe7ae2a7-5544-bfcf-5ecc-f0c2844d4f8c "PDF" %}})
 
-Handout 5: The statistical algorithm refined, the uncertainty principle, Schrödinger's Equation, states of multi-particle systems ([PDF]({{< baseurl >}}/resources/handout5_2_22_05))
+Handout 5: The statistical algorithm refined, the uncertainty principle, Schrödinger's Equation, states of multi-particle systems ({{% resource_link aa4df3ff-966f-b51d-205b-6f49aef3d26c "PDF" %}})
 
-Handout 6: Basic number theory stuff, used in Shor's algorithm for quantum-computing the factors of an integer ([PDF]({{< baseurl >}}/resources/handout6_5_9_05))
+Handout 6: Basic number theory stuff, used in Shor's algorithm for quantum-computing the factors of an integer ({{% resource_link b25e871c-4bc4-47d5-4f37-c2fe90e679f7 "PDF" %}})

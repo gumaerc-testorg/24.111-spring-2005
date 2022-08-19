@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains the class notes for various topics
+  in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,11 +33,11 @@ TOPICS
 
 Overview of Some Odd Phenomena
 
-Lecture 1 ([PDF]({{< baseurl >}}/resources/lecture_1_2_2_05))
+Lecture 1 ({{% resource_link 61cde33e-772e-736c-cc9d-896a58939728 "PDF" %}})
 
-Lecture 2 ([PDF]({{< baseurl >}}/resources/lecture_2_2_7_05))
+Lecture 2 ({{% resource_link 7308a570-8c7a-eb7d-45b8-16e9d402e605 "PDF" %}})
 
-Lecture 3 ([PDF]({{< baseurl >}}/resources/lecture_3_2_9_05))
+Lecture 3 ({{% resource_link 280ca53f-5320-d0d0-0059-c34a0eb4c48b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ Lecture 3 ([PDF]({{< baseurl >}}/resources/lecture_3_2_9_05))
 
 Overview of Some Odd Phenomena (cont.)
 
-Lecture 4 ([PDF]({{< baseurl >}}/resources/lecture_4_2_9_05))
+Lecture 4 ({{% resource_link de387c23-a4de-b24f-e146-a191d255238d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -65,9 +67,9 @@ Lecture 4 ([PDF]({{< baseurl >}}/resources/lecture_4_2_9_05))
 
 The Mathematical Formalism and Its Orthodox Interpretation
 
-Lecture 5 ([PDF]({{< baseurl >}}/resources/lecture_5_2_14_5))
+Lecture 5 ({{% resource_link be80f7d2-20be-eb9e-ce9a-b0b57d16b18b "PDF" %}})
 
-Lecture 6 ([PDF]({{< baseurl >}}/resources/lecture_6_2_14_5))
+Lecture 6 ({{% resource_link 2672cfba-3e3f-81f7-ed40-6e9872605731 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -82,9 +84,9 @@ Lecture 6 ([PDF]({{< baseurl >}}/resources/lecture_6_2_14_5))
 
 The Mathematical Formalism and Its Orthodox Interpretation (cont.)
 
-Lecture 7 ([PDF]({{< baseurl >}}/resources/lecture_7_2_16_5))
+Lecture 7 ({{% resource_link 4da1db65-2a29-8136-0ea4-8b2ecbf82929 "PDF" %}})
 
-Lecture 8 ([PDF]({{< baseurl >}}/resources/lecture_8_2_22_5))
+Lecture 8 ({{% resource_link 8425be17-9120-3eed-d823-086587e27b05 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -99,7 +101,7 @@ Lecture 8 ([PDF]({{< baseurl >}}/resources/lecture_8_2_22_5))
 
 The Measurement Problem and Attempted Solutions
 
-Lecture 9 ([PDF]({{< baseurl >}}/resources/lecture_9_2_28_5))
+Lecture 9 ({{% resource_link 1d7459ec-7f20-38dd-7f4b-b98176d72898 "PDF" %}})
 
 
 {{< tdclose >}}
