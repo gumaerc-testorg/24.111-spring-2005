@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment #2: Bell?s Inequalities'
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/18acb0c09e550473b0a6af232b3c5484_assignment2.pdf
+file_size: 68776
 file_type: application/pdf
 learning_resource_types:
 - Assignments

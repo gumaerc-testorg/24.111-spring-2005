@@ -2,6 +2,7 @@
 content_type: resource
 description: Third lecture
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/7301ab4e83ae925a1024d6c47b9343f4_lecture_3.pdf
+file_size: 241333
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

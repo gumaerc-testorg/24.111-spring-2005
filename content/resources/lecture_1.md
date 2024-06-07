@@ -2,6 +2,7 @@
 content_type: resource
 description: First lecture
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/b13f91b4487df6b101161f9e23f92edb_lecture_1.pdf
+file_size: 181846
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

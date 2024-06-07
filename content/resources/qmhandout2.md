@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Handout #2: Derivation of the Turbo Bell?s Inequality'
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/d6199e55c49663c84ce02a7275754d4f_qmhandout2.pdf
+file_size: 130695
 file_type: application/pdf
 learning_resource_types:
 - Assignments

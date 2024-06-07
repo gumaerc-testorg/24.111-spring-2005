@@ -3,6 +3,7 @@ content_type: resource
 description: This file describes bell's inequalities, what they show ,loophole in
   theory and its closing.
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/de387c23a4deb24fe146a191d255238d_lecture_4_2_9_05.pdf
+file_size: 40314
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
