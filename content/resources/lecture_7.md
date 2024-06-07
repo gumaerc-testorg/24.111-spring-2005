@@ -2,6 +2,7 @@
 content_type: resource
 description: Seventh lecture
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/b5b36f0043e4f0062ea2edff00ee3386_lecture_7.pdf
+file_size: 251824
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

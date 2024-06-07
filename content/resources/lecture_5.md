@@ -2,6 +2,7 @@
 content_type: resource
 description: Fifth lecture
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/b0166a6efbd67929d5b893537447fa8c_lecture_5.pdf
+file_size: 130941
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

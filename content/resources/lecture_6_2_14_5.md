@@ -4,6 +4,7 @@ description: This file contains information on two way experiment, obsrvations a
   expectations, central idea, statistical algorithm, and deriavtion of cos square
   law.
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/2672cfba3e3f81f7ed406e9872605731_lecture_6_2_14_5.pdf
+file_size: 179246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
