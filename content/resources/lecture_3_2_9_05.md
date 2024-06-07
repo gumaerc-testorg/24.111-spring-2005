@@ -5,6 +5,7 @@ description: 'This file describes correlations, their explanation in various way
 
   einstein vs bohr.'
 file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/280ca53f5320d0d00059c34a0eb4c48b_lecture_3_2_9_05.pdf
+file_size: 157382
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
