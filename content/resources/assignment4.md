@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment #4: The quantum mechanical representation of states'
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/9e2032ebae3157de43cae30007ae79ce_assignment4.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/9e2032ebae3157de43cae30007ae79ce_assignment4.pdf
 file_size: 71560
 file_type: application/pdf
 learning_resource_types:

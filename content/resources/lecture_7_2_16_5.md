@@ -5,7 +5,7 @@ description: 'This file presents the statstical algorithm, axes and orthonomal b
 
   and inner product, redundancy in the state vector and its experiments, relation
   among spin states, Schrodinger?s Equation, and the ?collapse of the wave-function.'
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/4da1db652a2981360ea48b2ecbf82929_lecture_7_2_16_5.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/4da1db652a2981360ea48b2ecbf82929_lecture_7_2_16_5.pdf
 file_size: 148041
 file_type: application/pdf
 learning_resource_types:
