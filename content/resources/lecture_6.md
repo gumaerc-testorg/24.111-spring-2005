@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sixth lecture
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/922580b43b0e3894294a341fdc39b4bb_lecture_6.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/922580b43b0e3894294a341fdc39b4bb_lecture_6.pdf
 file_size: 269899
 file_type: application/pdf
 learning_resource_types:

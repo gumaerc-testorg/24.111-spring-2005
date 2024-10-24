@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Second lecture
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/618edabf29c59d1f845b27aab7877fb6_lecture_2.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/618edabf29c59d1f845b27aab7877fb6_lecture_2.pdf
 file_size: 386677
 file_type: application/pdf
 learning_resource_types:
