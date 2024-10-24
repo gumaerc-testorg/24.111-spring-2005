@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file exhibits basic experiment, two path experiments and observations.
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/7308a5708c7aeb7d45b816e9d402e605_lecture_2_2_7_05.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/7308a5708c7aeb7d45b816e9d402e605_lecture_2_2_7_05.pdf
 file_size: 266429
 file_type: application/pdf
 learning_resource_types:
