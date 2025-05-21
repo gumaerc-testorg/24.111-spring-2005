@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the notes for the topic 'Vector Spaces and the Statistical
   Algorithm'.
-file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/fe7ae2a75544bfcf5eccf0c2844d4f8c_handout4_2_16_05.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/fe7ae2a75544bfcf5eccf0c2844d4f8c_handout4_2_16_05.pdf
 file_size: 119452
 file_type: application/pdf
 learning_resource_types:

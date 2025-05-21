@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains Strategy for analysis,spin measurements, coupled spin
   measurements, two path analysis, rotation box,and quantum bomb detection.
-file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/8425be1791203eedd823086587e27b05_lecture_8_2_22_5.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/8425be1791203eedd823086587e27b05_lecture_8_2_22_5.pdf
 file_size: 669275
 file_type: application/pdf
 learning_resource_types:

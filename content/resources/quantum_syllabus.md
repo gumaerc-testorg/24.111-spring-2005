@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/4649da72f4980484d1eaa8791935cabb_quantum_syllabus.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/4649da72f4980484d1eaa8791935cabb_quantum_syllabus.pdf
 file_size: 234736
 file_type: application/pdf
 learning_resource_types: []
