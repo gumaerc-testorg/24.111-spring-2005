@@ -4,7 +4,7 @@ description: 'This file discusses the statistical algorithm refined, the uncerta
   principle, Schr?dinger''s
 
   Equation, and states of multi-particle systems.'
-file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/aa4df3ff966fb51d205b6f49aef3d26c_handout5_2_22_05.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/aa4df3ff966fb51d205b6f49aef3d26c_handout5_2_22_05.pdf
 file_size: 223383
 file_type: application/pdf
 learning_resource_types:

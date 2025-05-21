@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment #3: Bell?s Inequalities and spin measurements'
-file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/f7c5811356fc43a6176fabf4c2b17771_assignment3.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/f7c5811356fc43a6176fabf4c2b17771_assignment3.pdf
 file_size: 69743
 file_type: application/pdf
 learning_resource_types:

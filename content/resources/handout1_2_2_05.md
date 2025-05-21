@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the notes for The two-path experiment.
-file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/1f11f8db309e68a3af7af055a18c16fd_handout1_2_2_05.pdf
+file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/1f11f8db309e68a3af7af055a18c16fd_handout1_2_2_05.pdf
 file_size: 70087
 file_type: application/pdf
 learning_resource_types:
