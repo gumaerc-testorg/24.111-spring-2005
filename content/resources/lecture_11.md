@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Eleventh lecture
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/77b36c3c4b4d78f3dc30460ec996de3d_lecture_11.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/77b36c3c4b4d78f3dc30460ec996de3d_lecture_11.pdf
 file_size: 324044
 file_type: application/pdf
 learning_resource_types:
