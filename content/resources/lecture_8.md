@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Eighth lecture
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/90cf86eb2b63569cfa5020f44f74e2b8_lecture_8.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/90cf86eb2b63569cfa5020f44f74e2b8_lecture_8.pdf
 file_size: 663351
 file_type: application/pdf
 learning_resource_types:
