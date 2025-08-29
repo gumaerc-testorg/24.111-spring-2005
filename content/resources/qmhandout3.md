@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Handout #3: Vector spaces and the statistical algorithm'
-file: /courses/24-111-philosophy-of-quantum-mechanics-spring-2005/1785c271b8ff75cc06efa4912c3a9868_qmhandout3.pdf
+file: /ol-ocw-studio-app/courses/24-111-philosophy-of-quantum-mechanics-spring-2005/1785c271b8ff75cc06efa4912c3a9868_qmhandout3.pdf
 file_size: 140148
 file_type: application/pdf
 learning_resource_types:
